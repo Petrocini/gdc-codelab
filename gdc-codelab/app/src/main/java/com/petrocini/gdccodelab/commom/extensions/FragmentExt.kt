@@ -1,4 +1,4 @@
-package com.petrocini.gdccodelab.commom
+package com.petrocini.gdccodelab.commom.extensions
 
 import android.os.Bundle
 import android.widget.Toast
